@@ -52,7 +52,7 @@ acceptance testing-it helps verify that the software meets the business requirem
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 This is the practice of desighning and refining prompts -inputs to AI models to enhance accurate and useful models 
-it has the following advantages 
+it has the following advantages
 improves clarity
 optimize output quality
 enhance efficiency
